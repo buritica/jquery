@@ -1,0 +1,13 @@
+{
+  "name": "jquery",
+  "repo": "buritica/jquery",
+  "description": "custom jquery",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
